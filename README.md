@@ -1,6 +1,6 @@
-# Mvol
+# MovieExplorer
 
-> My fine Nuxt.js project
+> Explore your favourite movies with a single click!
 
 ## Build Setup
 
